@@ -59,7 +59,7 @@ To explore these projects:
 
   ```bash
   cd ML_Colab_Repos
-
-**### Author 👨‍💻**
+  ```
+### Author 👨‍💻
 
 **Developed by [Rohit Gupta].**
